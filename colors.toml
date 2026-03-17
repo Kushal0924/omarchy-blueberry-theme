@@ -1,0 +1,65 @@
+# Aether Color Scheme
+# Compatible with omarchy flat-format themes
+
+# UI Colors
+accent = "#ea9a97"
+cursor = "#e0def4"
+theme_type = "dark"
+
+# Primary colors
+foreground = "#e0def4"
+background = "#7276db"
+
+# Selection colors
+selection = "#e0def4"
+selection_foreground = "#7276db"
+selection_background = "#e0def4"
+
+# Background shades
+bg = "#7276db"
+dark_bg = "#5659a4"
+darker_bg = "#393b6e"
+lighter_bg = "#8084df"
+
+# Foreground shades
+fg = "#e0def4"
+dark_fg = "#a8a7b7"
+light_fg = "#e5e3f6"
+bright_fg = "#e8e6f7"
+muted = "#c4a7e7"
+
+# Normal colors
+red = "#eb6f92"
+yellow = "#f6c177"
+orange = "#ee85a2"
+green = "#9ab76d"
+cyan = "#9ccfd8"
+blue = "#ea9a97"
+purple = "#df69ba"
+brown = "#8f5061"
+
+# Bright colors
+bright_red = "#ed7f9e"
+bright_yellow = "#f8d098"
+bright_green = "#a7c080"
+bright_cyan = "#b1d9e0"
+bright_blue = "#ebbcba"
+bright_purple = "#e587c8"
+
+# ANSI colors (0-15)
+color0 = "#7276db"
+color1 = "#eb6f92"
+color2 = "#9ab76d"
+color3 = "#f6c177"
+color4 = "#ea9a97"
+color5 = "#df69ba"
+color6 = "#9ccfd8"
+color7 = "#e0def4"
+color8 = "#c4a7e7"
+color9 = "#ed7f9e"
+color10 = "#a7c080"
+color11 = "#f8d098"
+color12 = "#ebbcba"
+color13 = "#e587c8"
+color14 = "#b1d9e0"
+color15 = "#e0def4"
